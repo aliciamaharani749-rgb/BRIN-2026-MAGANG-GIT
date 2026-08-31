@@ -24,3 +24,6 @@ MENGGUNAKAN GIT UNTUK VERSIONING (CLI)
   
 
 Catatan : standar di github menggunakan konsep 'akun/repo'. Mis: yaditya/driftbuoy - private
+
+
+## module vers 2
